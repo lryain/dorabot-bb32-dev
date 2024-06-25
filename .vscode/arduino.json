@@ -1,0 +1,14 @@
+{
+    "configuration": "JTAGAdapter=default,PSRAM=disabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,LoopCore=1,EventsCore=1,DebugLevel=none,EraseFlash=none",
+    "arduino.path": "D:/arduino/arduino-1.8.16/arduino.exe",
+    "board": "esp32:esp32:esp32",
+    "sketch": "src\\src.ino",
+    "port": "COM91",
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "editor.insertSpaces": true,
+    "files.autoGuessEncoding": true,
+    "arduino.logLevel": "info",
+    "explorer.confirmDelete": false,
+    "editor.detectIndentation": false,
+    "output": "./build"
+}
